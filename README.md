@@ -3,7 +3,7 @@
 <img width="608" alt="heart disease pic" src="https://github.com/user-attachments/assets/77706d99-bf1f-4413-b405-13efebcc2ff2">
 
 ## Overview
-
+ 
 This project demonstrates my interest in public health and my ability to develop predictive models using logistic regression, as part of the requirements for the **Turing College Data Analytics Career Certificate**. The study focuses on predicting the 10-year risk of coronary heart disease (CHD), utilizing a dataset from Kaggle’s [Cardiovascular Study Dataset](https://www.kaggle.com/datasets/christofel04/cardiovascular-study-dataset-predict-heart-disea/data).
 
 ## Purpose
