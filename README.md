@@ -1,5 +1,7 @@
 ## Predictive Model: Risk of Coronary Heart Disease Development within 10 Years
 
+<img width="608" alt="heart disease pic" src="https://github.com/user-attachments/assets/77706d99-bf1f-4413-b405-13efebcc2ff2">
+
 ## Overview
 
 This project demonstrates my interest in public health and my ability to develop predictive models using logistic regression, as part of the requirements for the **Turing College Data Analytics Career Certificate**. The study focuses on predicting the 10-year risk of coronary heart disease (CHD), utilizing a dataset from Kaggle’s [Cardiovascular Study Dataset](https://www.kaggle.com/datasets/christofel04/cardiovascular-study-dataset-predict-heart-disea/data).
@@ -27,3 +29,5 @@ The project concludes with a two-step screening approach for identifying individ
 The study also suggests that expanding the dataset and enhancing feature engineering could further improve model accuracy, demonstrating an analytical approach to addressing public health challenges through predictive modeling.
 
 By completing this project, I have illustrated my proficiency in using logistic regression and predictive modeling to tackle significant public health issues.
+
+[View the Jupyter Notebook](https://github.com/varnette/Predictive-Model-Risk-of-Coronary-Heart-Disease-Development/blob/main/Arnette_Cardiovascular_Log_Regression.ipynb)
